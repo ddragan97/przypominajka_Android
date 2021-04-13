@@ -1,0 +1,126 @@
+1<?xml version="1.0" encoding="utf-8"?>
+2<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+3    package="pl.wsiz.przypominajka"
+4    android:versionCode="1"
+5    android:versionName="1.0" >
+6
+7    <uses-sdk
+8        android:minSdkVersion="19"
+8-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml
+9        android:targetSdkVersion="29" />
+9-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml
+10
+11    <uses-permission
+11-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:6:5-8:35
+12        android:name="android.permission.READ_EXTERNAL_STORAGE"
+12-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:7:9-64
+13        android:required="true" />
+13-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:8:9-32
+14    <uses-permission
+14-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:9:5-11:35
+15        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+15-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:10:9-65
+16        android:required="true" />
+16-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:11:9-32
+17    <uses-permission
+17-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:12:5-14:35
+18        android:name="android.permission.INTERNET"
+18-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:13:9-51
+19        android:required="true" />
+19-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:14:9-32
+20
+21    <application
+21-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:16:5-68:19
+22        android:allowBackup="true"
+22-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:17:9-35
+23        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+23-->[androidx.core:core:1.2.0] C:\Users\D\.gradle\caches\transforms-2\files-2.1\f4976fdf66a867c7fc93ada653134a06\core-1.2.0\AndroidManifest.xml:24:18-86
+24        android:debuggable="true"
+25        android:icon="@mipmap/main_ico"
+25-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:18:9-40
+26        android:label="@string/app_name"
+26-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:19:9-41
+27        android:roundIcon="@mipmap/ic_launcher_round"
+27-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:20:9-54
+28        android:supportsRtl="true"
+28-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:21:9-35
+29        android:theme="@style/AppTheme" >
+29-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:22:9-40
+30        <activity android:name="pl.wsiz.przypominajka.PaymentActivity" />
+30-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:25:9-53
+30-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:25:19-50
+31        <activity
+31-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:26:9-28:46
+32            android:name="pl.wsiz.przypominajka.BillSummaryActivity"
+32-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:27:13-48
+33            android:launchMode="singleTop" />
+33-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:28:13-43
+34        <activity
+34-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:29:9-31:46
+35            android:name="pl.wsiz.przypominajka.NoticeSummaryActivity"
+35-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:30:13-50
+36            android:launchMode="singleTop" />
+36-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:31:13-43
+37        <activity android:name="pl.wsiz.przypominajka.HelpAddingActivity" />
+37-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:32:9-56
+37-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:32:19-53
+38        <activity
+38-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:33:9-37:56
+39            android:name="pl.wsiz.przypominajka.CurrentlyActivity"
+39-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:34:13-46
+40            android:label="Aktualnie ustawione"
+40-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:35:13-48
+41            android:screenOrientation="portrait" />
+41-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:36:13-49
+42        <activity
+42-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:38:9-42:56
+43            android:name="pl.wsiz.przypominajka.AddNewActivity"
+43-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:39:13-43
+44            android:label="Dodaj"
+44-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:40:13-34
+45            android:screenOrientation="portrait" />
+45-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:41:13-49
+46        <activity
+46-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:43:9-47:56
+47            android:name="pl.wsiz.przypominajka.ProfileActivity"
+47-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:44:13-44
+48            android:label="Profil"
+48-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:45:13-35
+49            android:screenOrientation="portrait" />
+49-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:46:13-49
+50        <activity
+50-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:48:9-57:20
+51            android:name="pl.wsiz.przypominajka.StartActivity"
+51-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:49:13-42
+52            android:screenOrientation="portrait" >
+52-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:50:13-49
+53            <intent-filter>
+53-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:52:13-56:29
+54                <action android:name="android.intent.action.MAIN" />
+54-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:53:17-69
+54-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:53:25-66
+55
+56                <category android:name="android.intent.category.LAUNCHER" />
+56-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:55:17-77
+56-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:55:27-74
+57            </intent-filter>
+58        </activity>
+59        <activity
+59-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:58:9-61:56
+60            android:name="pl.wsiz.przypominajka.HelloActivity"
+60-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:59:13-42
+61            android:screenOrientation="portrait" />
+61-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:60:13-49
+62        <activity
+62-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:62:9-65:56
+63            android:name="pl.wsiz.przypominajka.MainActivity"
+63-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:63:13-41
+64            android:screenOrientation="portrait" />
+64-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:64:13-49
+65
+66        <receiver android:name="pl.wsiz.przypominajka.NoticeBroadCast" />
+66-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:67:9-53
+66-->E:\ProjektyAndroid\Przypominajka\app\src\main\AndroidManifest.xml:67:19-50
+67    </application>
+68
+69</manifest>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="pl.wsiz.przypominajka"
+    android:targetSandboxVersion="2"
+    android:versionCode="1"
+    android:versionName="1.0" >
+
+    <uses-sdk
+        android:minSdkVersion="19"
+        android:targetSdkVersion="29" />
+
+    <uses-permission
+        android:name="android.permission.READ_EXTERNAL_STORAGE"
+        android:required="true" />
+    <uses-permission
+        android:name="android.permission.WRITE_EXTERNAL_STORAGE"
+        android:required="true" />
+    <uses-permission
+        android:name="android.permission.INTERNET"
+        android:required="true" />
+
+    <application
+        android:allowBackup="true"
+        android:appComponentFactory="androidx.core.app.CoreComponentFactory"
+        android:debuggable="true"
+        android:icon="@mipmap/main_ico"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme" >
+        <activity android:name="pl.wsiz.przypominajka.PaymentActivity" />
+        <activity
+            android:name="pl.wsiz.przypominajka.BillSummaryActivity"
+            android:launchMode="singleTop" />
+        <activity
+            android:name="pl.wsiz.przypominajka.NoticeSummaryActivity"
+            android:launchMode="singleTop" />
+        <activity android:name="pl.wsiz.przypominajka.HelpAddingActivity" />
+        <activity
+            android:name="pl.wsiz.przypominajka.CurrentlyActivity"
+            android:label="Aktualnie ustawione"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="pl.wsiz.przypominajka.AddNewActivity"
+            android:label="Dodaj"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="pl.wsiz.przypominajka.ProfileActivity"
+            android:label="Profil"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="pl.wsiz.przypominajka.StartActivity"
+            android:screenOrientation="portrait" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="pl.wsiz.przypominajka.HelloActivity"
+            android:screenOrientation="portrait" />
+        <activity
+            android:name="pl.wsiz.przypominajka.MainActivity"
+            android:screenOrientation="portrait" />
+
+        <receiver android:name="pl.wsiz.przypominajka.NoticeBroadCast" />
+    </application>
+
+</manifest>
