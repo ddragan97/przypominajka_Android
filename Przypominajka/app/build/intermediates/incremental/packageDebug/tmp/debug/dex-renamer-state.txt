@@ -1,0 +1,4 @@
+#Wed Feb 10 21:11:00 CET 2021
+base.0=E\:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\dex\\debug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
