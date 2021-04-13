@@ -1,0 +1,290 @@
+[
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_profile_ico_3.png.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\profile_ico_3.png"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_copy_c.png.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_copy_c.png"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_ic_copy_c.png.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\ic_copy_c.png"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_list_ico_1.png.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\list_ico_1.png"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\src\\main\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_list_ico_1.png.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\list_ico_1.png"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_launcher_background.png.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_help_ico.png.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\src\\main\\res\\drawable\\btn_help_ico.png"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_list_ico_1.png.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\list_ico_1.png"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\src\\main\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\anim_start2anim.xml.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\src\\main\\res\\anim\\start2anim.xml"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_spinner.xml.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\src\\main\\res\\drawable\\bg_spinner.xml"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable_delete_ico.png.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\src\\main\\res\\drawable\\delete_ico.png"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_add_ico_2.png.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\add_ico_2.png"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\src\\main\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_ic_copy_c.png.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\ic_copy_c.png"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable-v24_ic_launcher_foreground.xml.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\src\\main\\res\\drawable-v24\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_copy_c.png.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_copy_c.png"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_add_fields.xml.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\src\\main\\res\\drawable\\bg_add_fields.xml"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable_export.png.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\src\\main\\res\\drawable\\export.png"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_ic_launcher_background.png.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_copy_c.xml.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_copy_c.xml"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_profile_ico_3.png.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\profile_ico_3.png"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border_save_btn.xml.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\src\\main\\res\\drawable\\border_save_btn.xml"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_add_ico_2.png.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\add_ico_2.png"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_hello.xml.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\src\\main\\res\\layout\\activity_hello.xml"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_list_ico_1.xml.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\list_ico_1.xml"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_add_ico_2.png.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\add_ico_2.png"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_launcher_background.png.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_start.xml.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\src\\main\\res\\layout\\activity_start.xml"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable-ldpi_add_ico_2.png.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\generated\\res\\pngs\\debug\\drawable-ldpi\\add_ico_2.png"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable_eye_ico.png.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\src\\main\\res\\drawable\\eye_ico.png"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_list_ico_1.png.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\list_ico_1.png"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_ic_copy_c.png.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\ic_copy_c.png"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xhdpi_profile_ico_3.png.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\generated\\res\\pngs\\debug\\drawable-xhdpi\\profile_ico_3.png"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_bill_summary.xml.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\src\\main\\res\\layout\\activity_bill_summary.xml"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable_notify_ico.png.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\src\\main\\res\\drawable\\notify_ico.png"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi_list_ico_1.png.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\generated\\res\\pngs\\debug\\drawable-hdpi\\list_ico_1.png"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_profile_ico_3.png.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\profile_ico_3.png"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_profile_ico_3.png.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\profile_ico_3.png"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_ic_launcher_background.xml.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\ic_launcher_background.xml"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_ic_copy_c.png.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\ic_copy_c.png"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_main.xml.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_profile_ico_3.png.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\profile_ico_3.png"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\src\\main\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\src\\main\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_profile.xml.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\src\\main\\res\\layout\\activity_profile.xml"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\layout_spinner_item.xml.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\src\\main\\res\\layout\\spinner_item.xml"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_currently.xml.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\src\\main\\res\\layout\\activity_currently.xml"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxhdpi_add_ico_2.png.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxhdpi\\add_ico_2.png"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_add_ico_2.xml.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\add_ico_2.xml"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_notice_summary.xml.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\src\\main\\res\\layout\\activity_notice_summary.xml"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\layout_currently_item.xml.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\src\\main\\res\\layout\\currently_item.xml"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_payment.xml.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\src\\main\\res\\layout\\activity_payment.xml"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_tab_manager.xml.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\src\\main\\res\\drawable\\bg_tab_manager.xml"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-hdpi_main_ico.png.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\src\\main\\res\\mipmap-hdpi\\main_ico.png"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_list_ico_1.png.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\list_ico_1.png"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable_btn_add_ico.png.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\src\\main\\res\\drawable\\btn_add_ico.png"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_add_new.xml.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\src\\main\\res\\layout\\activity_add_new.xml"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable-anydpi-v21_profile_ico_3.xml.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\generated\\res\\pngs\\debug\\drawable-anydpi-v21\\profile_ico_3.xml"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable_dollar_ico.png.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\src\\main\\res\\drawable\\dollar_ico.png"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable_spinner_arrow.png.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\src\\main\\res\\drawable\\spinner_arrow.png"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable_clear_ico.png.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\src\\main\\res\\drawable\\clear_ico.png"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\src\\main\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable-xxxhdpi_add_ico_2.png.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\generated\\res\\pngs\\debug\\drawable-xxxhdpi\\add_ico_2.png"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable_bg_profile_fields.xml.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\src\\main\\res\\drawable\\bg_profile_fields.xml"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable_border_radius.xml.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\src\\main\\res\\drawable\\border_radius.xml"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\drawable-mdpi_ic_launcher_background.png.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\generated\\res\\pngs\\debug\\drawable-mdpi\\ic_launcher_background.png"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\layout_activity_help_adding.xml.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\src\\main\\res\\layout\\activity_help_adding.xml"
+    },
+    {
+        "merged": "E:\\ProjektyAndroid\\Przypominajka\\app\\build\\intermediates\\res\\merged\\debug\\anim_start1anim.xml.flat",
+        "source": "E:\\ProjektyAndroid\\Przypominajka\\app\\src\\main\\res\\anim\\start1anim.xml"
+    }
+]
