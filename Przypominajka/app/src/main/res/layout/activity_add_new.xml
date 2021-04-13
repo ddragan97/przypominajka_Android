@@ -1,0 +1,196 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:tools="http://schemas.android.com/tools"
+    android:layout_height="match_parent"
+    android:layout_width="match_parent"
+    android:id="@+id/svAllAddNew"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".AddNewActivity"
+    android:padding="10dp"
+    android:orientation="vertical"
+    tools:ignore="ScrollViewSize">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="@string/tytulAddBew"
+            android:gravity="center"
+            android:textStyle="bold"/>
+
+        <EditText
+            android:id="@+id/titleNewPrzyp"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="@string/nazwa_powiadomieniaAddNew"
+            android:gravity="center"
+            android:layout_marginTop="10dp"
+            android:inputType="textCapWords"
+            android:background="@drawable/bg_add_fields"
+            tools:ignore="Autofill" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        tools:ignore="DisableBaselineAlignment">
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1">
+
+            <Button
+                android:id="@+id/btnSetDateAddNewPrzyp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/dataAddNew"
+                android:textStyle="bold"
+                android:fontFamily="serif"
+                android:layout_centerHorizontal="true"/>
+
+            <EditText
+                android:id="@+id/dateAddNewPrzyp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:layout_marginTop="45dp"
+                android:background="@drawable/bg_add_fields"
+                android:layout_marginEnd="5dp"
+                tools:ignore="Autofill,LabelFor,TextFields"/>
+
+        </RelativeLayout>
+
+        <RelativeLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1">
+
+            <Button
+                android:id="@+id/btnSetTimeAddNewPrzyp"
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="@string/czasAddNew"
+                android:textStyle="bold"
+                android:fontFamily="serif"
+                android:layout_centerHorizontal="true"/>
+
+            <EditText
+                android:id="@+id/timeAddNewPrzyp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:textAlignment="center"
+                android:layout_marginTop="45dp"
+                android:background="@drawable/bg_add_fields"
+                android:layout_marginStart="5dp"
+                tools:ignore="Autofill,LabelFor,TextFields"/>
+
+        </RelativeLayout>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="20dp">
+
+        <TextView
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:layout_gravity="center"
+            android:layout_marginEnd="10dp"
+            android:text="@string/przypomnijAddNew"/>
+
+        <Spinner
+            android:id="@+id/showAtSpinnerAddNew"
+            android:layout_height="wrap_content"
+            android:background="@drawable/bg_spinner"
+            android:layout_width="0dp"
+            android:layout_weight="1"
+            tools:ignore="RtlSymmetry" />
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <RadioGroup
+            android:id="@+id/typeOfAddNewNotice"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:orientation="horizontal"
+            android:padding="15dp"
+            tools:ignore="UselessParent">
+
+            <RadioButton
+                android:id="@+id/rodzajPlatnoscAddNew"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:layout_weight="1"
+                android:text="@string/rachunkiAddNew"/>
+
+            <RadioButton
+                android:id="@+id/rodzajPrzypomnienieAddNew"
+                android:layout_width="0dp"
+                android:layout_height="wrap_content"
+                android:text="@string/przypomnienieAddNew"
+                android:layout_weight="1"/>
+
+        </RadioGroup>
+
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/changedLLAddNew"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+
+    </LinearLayout>
+
+    <RelativeLayout
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="30dp">
+
+        <Button
+            android:id="@+id/btnHelpAddNew"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@drawable/btn_help_ico"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentStart="true"/>
+
+        <Button
+            android:id="@+id/btnClearAddNew"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@drawable/clear_ico"
+            android:layout_alignParentBottom="true"
+            android:layout_centerHorizontal="true"/>
+
+        <Button
+            android:id="@+id/btnAddAddNew"
+            android:layout_width="50dp"
+            android:layout_height="50dp"
+            android:background="@drawable/btn_add_ico"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentEnd="true"/>
+
+    </RelativeLayout>
+
+</LinearLayout>
+</ScrollView>
