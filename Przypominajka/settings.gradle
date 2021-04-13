@@ -1,0 +1,2 @@
+rootProject.name='Przypominajka'
+include ':app'
